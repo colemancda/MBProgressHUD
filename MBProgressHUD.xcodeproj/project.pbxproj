@@ -335,6 +335,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -527,6 +528,7 @@
 				6E2DD9121A0F54B700774727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E2DD9131A0F54B700774727 /* Build configuration list for PBXNativeTarget "MBProgressHUDTests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +537,7 @@
 				6E2DD9151A0F54B700774727 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D286A7431518C70E00E13FB8 /* Build configuration list for PBXProject "MBProgressHUD" */ = {
 			isa = XCConfigurationList;
